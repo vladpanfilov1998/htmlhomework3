@@ -1,0 +1,27 @@
+p {
+    color: black;
+}
+.xxx {
+    max-width: 540px;
+    height: 700px;
+    padding: 10px;
+    border-left: 20px solid red;
+    box-sizing: border-box;
+    background: lightslategray;
+    margin: 20px; 20px; 20px; 20px;
+    border-radius: 10px;
+    box-shadow: 60px -16px black;
+}
+body {
+    background: darkblue;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: crimson;
+}
+li {
+    list-style: none;
+}
